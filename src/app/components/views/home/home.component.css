@@ -1,0 +1,25 @@
+.home {
+    width: 95%;
+    margin: 1rem auto;
+}
+
+@media(max-whidth:450px) {
+    .home {
+        width: 70%;
+    }
+}
+
+@media(max-whidth: 770px) {
+    .home {
+        width: 80%;
+    }
+}
+
+.title {
+    text-align: center;
+    font-weight: 600;
+}
+
+.subtitle {
+    text-align: center;
+}
